@@ -35,7 +35,7 @@ const App = () => {
   return (
     <div
       className="d-flex flex-column justify-content-between"
-      style={{ minHeight: "100vh", minWidth: "100vw" }}
+      style={{ minHeight: "70vh", minWidth: "70vw" }}
     >
       <Header />
       <table>
